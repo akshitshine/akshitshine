@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pal
 - 👀 I’m interested in security and development
-- 🌱 I’m currently learning  linux | cloud | pentesting
-- 💞️ I’m looking to collaborate on projects in linux amdinistration | cloud | security
+- 🌱 I’m trying to learn linux | cloud | pentesting
 
 <!---
 akshitshine/akshitshine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
