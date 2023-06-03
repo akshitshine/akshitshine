@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshit
+- 👋 Hi, I’m @Pal
 - 👀 I’m interested in security and development
 - 🌱 I’m currently learning  linux | cloud | pentesting
 - 💞️ I’m looking to collaborate on projects in linux amdinistration | cloud | security
